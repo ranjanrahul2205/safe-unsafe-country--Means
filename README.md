@@ -1,1 +1,1 @@
-EuropeSafeUnsafeCountryPrediction-K-means
+EuropeSafeUnsafeCountryPrediction-Kmeans
